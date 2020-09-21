@@ -33,6 +33,6 @@ This project was developed with the following technologies:
 
 ## :memo: License
 
-This project is under the MIT license. See the [LICENSE](https://github.com/gustavohassen/shoestore/LICENCE)
+This project is under the MIT license. See the [LICENSE](https://github.com/GustavoHassen/shoestore/blob/master/LICENSE)
 
 Made by Gustavo Hassen dos Santos [Linkedin](https://www.linkedin.com/in/gustavo-hassen-dos-santos/)
